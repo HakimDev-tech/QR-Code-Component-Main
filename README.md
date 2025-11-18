@@ -19,8 +19,10 @@ This is my solution to the QR Code Component challenge from [Frontend Mentor](ht
 
 ## Live Demo
 
-[View live site](https://ton-lien.netlify.app) *← tu mettras ton lien ici plus tard*
+[View live site](https://HakimDev-tech.github.io/QR-Code-Component-Main/
+) *← tu mettras ton lien ici plus tard*
 
 ## Author
+
 
 - GitHub: [hk08test](https://github.com/hk08test)
